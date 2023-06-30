@@ -1,0 +1,756 @@
+ID ||| Customer info 
+ Product and details 
+ Advertisement text
+
+2078 ||| 54 years old; older adult; No giro account; 1998939.941€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Credit Card Gold. Bonuses selected: Includes travel insurance; Limit 2800€ per month 
+Experience the world with ease! Get our Credit Card Gold with travel insurance and a monthly limit of 2800€. Apply now and start your journey today!
+
+2211 ||| 20 years old; young adult; Online customer; 12685312.5€ of assets; High Income; 0.0€ of financing; Not involved in financing; 922919.983€ of monthly Giro turnover; Medium-High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Life Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+Secure your future with our life insurance! Get great benefits and support from Raiffeisen. Don't wait, protect your loved ones today.
+
+2620 ||| 20 years old; young adult; No giro account; 1195319.946€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; Payment duration 12 - 84 months. 
+Need funds for that dream project? Get a flexible loan with Fair Credit. Payment duration between 12-84 months. Apply now!
+
+
+------------------------------------------------------------------------------------------------------------
+
+2078 ||| 54 years old; older adult; No giro account; 1998939.941€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Sofort Credit. Bonuses selected: Flexible; up to 4000€ 
+Get the credit you need, when you need it. Our Sofort Credit is flexible and can provide up to 4000€. Apply now and get the funds you need to achieve your goals!
+
+2211 ||| 20 years old; young adult; Online customer; 12685312.5€ of assets; High Income; 0.0€ of financing; Not involved in financing; 922919.983€ of monthly Giro turnover; Medium-High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Life Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+Secure your future with our Life Insurance! Enjoy great benefits and the support of Raiffeisen. Don't wait, protect your loved ones today!
+
+2620 ||| 20 years old; young adult; No giro account; 1195319.946€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; Credit calculator for further information developed by Teambank AG. 
+Get the credit you deserve with our Fair Credit solution! Our flexible options are tailored to your needs. Use our credit calculator for more information. Developed by Teambank AG.
+
+2698 ||| 75 years old; senior; Filial customer; 216346109.375€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 3062689.941€ of monthly Giro turnover; Very High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; Credit insurance possible 
+Need flexible credit with fair terms? Look no further! Our credit solutions offer insurance possibilities for added peace of mind. Apply now and experience financial freedom.
+
+3162 ||| 25 years old; young adult; Fully digital; 12926066.406€ of assets; High Income; 0.0€ of financing; Not involved in financing; 1700000.0€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Bausparfinanzierung. Bonuses selected: Flexible due to tailored repayment plan with payment duration up until 35 years; Fixed interest rate period as well as free interest rate cap up until 20 years after receiving loan. 
+Secure your future with our flexible Bausparfinanzierung! Enjoy tailored repayment plans up to 35 years, a fixed interest rate period, and a free interest rate cap up to 20 years after receiving your loan. Apply now!
+
+3195 ||| 60 years old; older adult; Optimizer; 110070.0€ of assets; Low Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Bausparfinanzierung. Bonuses selected: Flexible due to tailored repayment plan with payment duration up until 35 years; Fixed interest rate period as well as free interest rate cap up until 20 years after receiving loan 
+Get the best of both worlds with our Bausparfinanzierung! Flexible repayment plans and fixed interest rates for up to 20 years - all tailored to your needs. Apply now!
+
+3472 ||| 28 years old; working adult; Fully digital; 43360554.688€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 2292635.01€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+Get the best insurance coverage with Raiffeisen. Our plans offer great benefits and support, all fully digital. Protect your assets and secure your future today!
+
+3559 ||| 56 years old; older adult; Online customer; 9439982.422€ of assets; High Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; 1000€ - 75000€ credit with fixed interest rate throughout the entire payment duration. 
+Need extra funds? Get flexible Fair Credit with a fixed interest rate from 1000€ to 75000€. Apply now for a stress-free borrowing experience.
+
+4393 ||| 32 years old; working adult; Relationship oriented; 69210539.063€ of assets; Ultra-High Income; 267983625.0€ of financing; Involved in financing; 2975810.059€ of monthly Giro turnover; High Giro Turnover; registered relationship; living in a big city in Lower Austria 
+ Product selected: Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+Get the insurance you deserve with Raiffeisen. Enjoy great benefits and expert support. Protect what matters most to you. Get started today.
+
+4576 ||| 29 years old; working adult; Relationship oriented; 101088773.438€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 2790649.902€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Securities. Bonuses selected: great benefits; support from Raiffeisen 
+Invest in your future with our securities! Enjoy great benefits and support from Raiffeisen. Start securing your financial stability today!
+
+4585 ||| 27 years old; working adult; Relationship oriented; 37895429.688€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 2344357.422€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Life Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+Protect your future with our life insurance. Enjoy great benefits and support from Raiffeisen. Don't wait until it's too late, get insured now!
+
+5072 ||| 65 years old; senior; No giro account; 131528890.625€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Bausparfinanzierung. Bonuses selected: Fixed interest rate period as well as free interest rate cap up until 20 years after receiving loan; Max. 240000€ per person or 480000€ per married couple/life partners. 
+Secure your future with our Bausparfinanzierung! Fixed interest rate for peace of mind, and a free interest rate cap for up to 20 years after receiving the loan. Up to 240000€ per person or 480000€ per couple.
+
+5251 ||| 84 years old; senior; Online customer; 53840.0€ of assets; Low Income; 2110742.676€ of financing; Involved in financing; 200000.0€ of monthly Giro turnover; Medium Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy overlook over finances; Contactless payment 
+Enjoy easy and secure payments with our debit card! Keep track of your finances effortlessly and pay contactless. Get yours today!
+
+5265 ||| 75 years old; senior; Filial customer; 60172878.906€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 2966022.461€ of monthly Giro turnover; High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; 1000€ - 75000€ credit with fixed interest rate throughout the entire payment duration. 
+Get the credit you deserve with our Fair Credit option! Flexible payment options and fixed interest rates make it easy to get anywhere from 1000€ to 75000€. Apply now!
+
+2078 ||| 54 years old; older adult; No giro account; 1998939.941€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Bausparfinanzierung. Bonuses selected: great benefits; support from Raiffeisen 
+Get the benefits of Bausparfinanzierung with Raiffeisen! Our support will help you achieve your dreams. Don't wait, take advantage of our great offer now.
+
+2211 ||| 20 years old; young adult; Online customer; 12685312.5€ of assets; High Income; 0.0€ of financing; Not involved in financing; 922919.983€ of monthly Giro turnover; Medium-High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Life Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+Secure your future with our Life Insurance! Enjoy great benefits and the support of Raiffeisen. Don't wait, protect yourself and your loved ones today!
+
+2620 ||| 20 years old; young adult; No giro account; 1195319.946€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; Credit calculator for further information developed by Teambank AG 
+Need flexible credit options? Look no further! Our Fair Credit option is perfect for you. Check out our credit calculator for more information - developed by Teambank AG.
+
+
+------------------------------------------------------------------------------------------------------------
+
+2078 ||| 54 years old; older adult; No giro account; 1998939.941€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Sofort Credit. Bonuses selected: Flexible; up to 4000€; Easy management through ELBA app. 
+Get the money you need, when you need it with Sofort Credit! Up to 4000€ with easy management through our ELBA app. Apply now and experience the flexibility you deserve!
+
+2211 ||| 20 years old; young adult; Online customer; 12685312.5€ of assets; High Income; 0.0€ of financing; Not involved in financing; 922919.983€ of monthly Giro turnover; Medium-High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Life Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+Secure your future with Raiffeisen's life insurance. Get great benefits and the support you need to protect what matters most. Don't wait, sign up now!
+
+2620 ||| 20 years old; young adult; No giro account; 1195319.946€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy and safe online transactions; Digitalize debit card and pay with your phone. 
+Simplify your online transactions with our Digital Debit Card! Safe and easy payments from your phone. Get yours now and enjoy hassle-free shopping!
+
+2698 ||| 75 years old; senior; Filial customer; 216346109.375€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 3062689.941€ of monthly Giro turnover; Very High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; 1000€ - 75000€ credit with fixed interest rate throughout the entire payment duration. 
+Get the credit you deserve with our flexible Fair Credit options! Enjoy a fixed interest rate throughout your payment duration and choose a loan amount from 1000€ to 75000€. Apply now!
+
+3162 ||| 25 years old; young adult; Fully digital; 12926066.406€ of assets; High Income; 0.0€ of financing; Not involved in financing; 1700000.0€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Life Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+Protect your future with our life insurance! Enjoy great benefits and support from Raiffeisen. Get insured today!
+
+3195 ||| 60 years old; older adult; Optimizer; 110070.0€ of assets; Low Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Bausparfinanzierung. Bonuses selected: Flexible due to tailored repayment plan with payment duration up until 35 years; Fixed interest rate period as well as free interest rate cap up until 20 years after receiving loan; 
+Secure your future with our Bausparfinanzierung! Enjoy flexible repayment plans up to 35 years and a fixed interest rate period. Contact us now for a free consultation.
+
+3472 ||| 28 years old; working adult; Fully digital; 43360554.688€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 2292635.01€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+Get the best insurance for your needs! Enjoy great benefits and support from Raiffeisen. Go fully digital and secure your future now. Try it!
+
+3559 ||| 56 years old; older adult; Online customer; 9439982.422€ of assets; High Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; 1000€ - 75000€ credit with fixed interest rate throughout the entire payment duration. 
+Get the credit you deserve with our fair and flexible options. Borrow from 1000€ to 75000€ with a fixed interest rate throughout the entire payment period. Apply now and get the funds you need.
+
+4393 ||| 32 years old; working adult; Relationship oriented; 69210539.063€ of assets; Ultra-High Income; 267983625.0€ of financing; Involved in financing; 2975810.059€ of monthly Giro turnover; High Giro Turnover; registered relationship; living in a big city in Lower Austria 
+ Product selected: Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+Looking for great benefits with your insurance? Look no further! Get the support you need from Raiffeisen and enjoy peace of mind. Sign up today!
+
+4576 ||| 29 years old; working adult; Relationship oriented; 101088773.438€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 2790649.902€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Securities. Bonuses selected: great benefits; support from Raiffeisen 
+Invest in your future with our securities! Enjoy great benefits and support from Raiffeisen. Start building your wealth today.
+
+4585 ||| 27 years old; working adult; Relationship oriented; 37895429.688€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 2344357.422€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Life Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+Secure your future with our Life Insurance. Enjoy great benefits and support from Raiffeisen. Protect what matters most. Get your Life Insurance now!
+
+5072 ||| 65 years old; senior; No giro account; 131528890.625€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy overlook over finances; 2 factor authentication. 
+Experience hassle-free banking with our Debit Card! Enjoy easy access to your finances and secure transactions with 2 factor authentication. Get yours today!
+
+5251 ||| 84 years old; senior; Online customer; 53840.0€ of assets; Low Income; 2110742.676€ of financing; Involved in financing; 200000.0€ of monthly Giro turnover; Medium Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; Credit insurance possible 
+Looking for a flexible credit solution? Look no further! Our fair credit options come with the possibility of credit insurance. Apply now and get the financial support you need.
+
+5265 ||| 75 years old; senior; Filial customer; 60172878.906€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 2966022.461€ of monthly Giro turnover; High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; 1000€ - 75000€ credit with fixed interest rate throughout the entire payment duration. 
+Get the credit you deserve with our fair and flexible options! Fixed interest rates for the entire payment duration. Apply now to get up to 75,000€!
+
+7204 ||| 20 years old; young adult; Fully digital; 5388833.496€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 1894525.024€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Life Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+Secure your future with our life insurance. Get great benefits and support from Raiffeisen. Protect yourself and your loved ones. Sign up now!
+
+7443 ||| 83 years old; senior; Filial customer; 34559242.188€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 1517569.946€ of monthly Giro turnover; High Giro Turnover; divorced; living in a small city in Lower Austria 
+ Product selected: Bausparfinanzierung. Bonuses selected: Fixed interest rate period as well as free interest rate cap up until 20 years after receiving loan;Max. 240000€ per person or 480000€ per married couple/life partners; 
+Secure your future with our Bausparfinanzierung! Fixed interest rates and free interest rate cap until 20 years after loan. Up to 240000€ per person or 480000€ per couple. Try it now!
+
+7770 ||| 27 years old; working adult; Fully digital; 9502136.719€ of assets; High Income; 0.0€ of financing; Not involved in financing; 1640579.956€ of monthly Giro turnover; High Giro Turnover; single; living in Vienna 
+ Product selected: Debit Card. Bonuses selected: Digitalize debit card and pay with your phone; Easy and safe online transactions. 
+Experience seamless online transactions with our digitalized debit card! Pay easily and securely with your phone. Get yours today!
+
+8151 ||| 67 years old; senior; No giro account; 16889.999€ of assets; Low Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Auto Leasing. Bonuses selected: Flexible contracts; Easy termination as well as change and extension of contract 
+Get behind the wheel of your dream car with our flexible auto leasing contracts! Easy termination and options to change or extend the contract. Don't wait, start driving today!
+
+8247 ||| 40 years old; working adult; No giro account; 964900.024€ of assets; Low Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Credit Card Classic. Bonuses selected: Limit 1400€ per month; Contactless payment; 
+Get the flexibility you need with our Credit Card Classic. With a 1400€ monthly limit, contactless payment and easy access, it's the perfect card for your everyday needs. Apply now!
+
+8429 ||| 23 years old; young adult; No giro account; 0.0€ of assets; No assets; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; Credit calculator for further information developed by Teambank AG 
+Need a loan? Check out our Fair Credit option! With flexible payment plans, you can get the help you need. Visit our website to use our credit calculator for more information.
+
+8481 ||| 90 years old; senior; Optimizer; 175940531.25€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a big city in Lower Austria 
+ Product selected: Credit Card Platinum. Bonuses selected: Comprehensive insurance protection including travel, theft and purchase protection; Limit 7000€ per month; 
+Get the ultimate protection with our Platinum Credit Card! Enjoy comprehensive insurance coverage for travel, theft, and purchases. With a monthly limit of 7000€, it's the perfect fit for your lifestyle. Apply now!
+
+8604 ||| 30 years old; working adult; No giro account; 35859550.781€ of assets; Ultra-High Income; 68503367.188€ of financing; Involved in financing; 7316520.02€ of monthly Giro turnover; Very High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+Get the best insurance coverage with Raiffeisen! Enjoy great benefits and personalized support. Don't miss out, choose Raiffeisen for your peace of mind.
+
+8697 ||| 75 years old; senior; Optimizer; 748017875.0€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; widowed; living in Vienna 
+ Product selected: Basis Konto. Bonuses selected: Free debit card and Mein ELBA Internetbanking included; Cheep account. 
+Open a Basis Konto today for a cheap and convenient banking experience! Enjoy a free debit card and Mein ELBA Internetbanking. Start saving now!
+
+8779 ||| 65 years old; senior; Relationship oriented; 636850.281€ of assets; Low Income; 22133619.141€ of financing; Involved in financing; 4371169.922€ of monthly Giro turnover; Very High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy and safe online transactions; Contactless payment. 
+Simplify your payments with our Debit Card! Enjoy easy and safe online transactions, and contactless payment for your convenience. Get yours now!
+
+9083 ||| 81 years old; senior; Filial customer; 138845453.125€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 3433760.01€ of monthly Giro turnover; Very High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; Credit insurance possible. 
+Need credit without the hassle? Our fair credit options are flexible and can be tailored to your needs. Credit insurance also available. Apply now!
+
+9221 ||| 49 years old; working adult; No giro account; 1360.0€ of assets; Low Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; divorced; living in a small city in Lower Austria 
+ Product selected: Bausparfinanzierung. Bonuses selected: Flexible due to tailored repayment plan with payment duration up until 35 years; Finance your house building projects 
+Looking to finance your house building projects? Our Bausparfinanzierung offers tailored repayment plans up to 35 years. Start building your dream home today!
+
+9778 ||| 31 years old; working adult; Fully digital; 46170707.031€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 1614652.466€ of monthly Giro turnover; High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Sofort Credit. Bonuses selected: Flexible; up to 4000€; Easy management through ELBA app. 
+Get the credit you need, when you need it! Our Sofort Credit is flexible and easy to manage through the ELBA app. Apply now for up to 4000€ and enjoy hassle-free financing.
+
+10267 ||| 20 years old; young adult; Online customer; 6985918.945€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 1167280.029€ of monthly Giro turnover; Medium-High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Securities. Bonuses selected: great benefits; support from Raiffeisen 
+Invest in your future with Raiffeisen Securities! Enjoy great benefits and personalized support from our team of experts. Start your journey to financial freedom today.
+
+10407 ||| 50 years old; working adult; No giro account; 2730.0€ of assets; Low Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in Vienna 
+ Product selected: Sofort Credit. Bonuses selected: Flexible; up to 4000€; Easy management through ELBA app. 
+Get up to 4000€ with Sofort Credit! Our flexible solution is easy to manage through the ELBA app. Apply now and get the financial support you need!
+
+10524 ||| 15 years old; child; Relationship oriented; 5343547.852€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 10000.0€ of monthly Giro turnover; Low Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy and safe online transactions; Digitalize debit card and pay with your phone. 
+Experience hassle-free online transactions with our digitalized debit card! Make secure payments with your phone anytime, anywhere. Get your card now and simplify your life!
+
+11186 ||| 31 years old; working adult; No giro account; 22700.001€ of assets; Low Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy and safe online transactions; Easy overlook over finances; 
+Make online transactions easy and secure with our debit card! Keep track of your finances effortlessly. Get yours now and enjoy hassle-free shopping!
+
+11463 ||| 30 years old; working adult; Fully digital; 14418820.313€ of assets; High Income; 389439906.25€ of financing; Involved in financing; 639864.99€ of monthly Giro turnover; Medium-High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Securities. Bonuses selected: great benefits; support from Raiffeisen 
+Invest in your future with our secure securities. Enjoy great benefits and support from Raiffeisen. Start investing digitally today!
+
+11555 ||| 61 years old; senior; Optimizer; 137235078.125€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 2838995.117€ of monthly Giro turnover; High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Credit Card Platinum. Bonuses selected: Comprehensive insurance protection including travel, theft and purchase protection; Limit 7000€ per month. 
+Get the ultimate protection with our Platinum Credit Card! Enjoy comprehensive insurance coverage for travel, theft, and purchases. Plus, a 7000€ monthly limit. Apply now and experience complete peace of mind!
+
+11608 ||| 20 years old; young adult; Online customer; 19276312.5€ of assets; High Income; 0.0€ of financing; Not involved in financing; 1222989.99€ of monthly Giro turnover; Medium-High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Basis Konto. Bonuses selected: Free debit card and Mein ELBA Internetbanking included; Cheep account. 
+Get the best out of your money with our free Basis Konto. Easy to use, with a free debit card and Mein ELBA Internetbanking included. Open your account now and save money!
+
+12100 ||| 83 years old; senior; Relationship oriented; 85615671.875€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 1945339.966€ of monthly Giro turnover; High Giro Turnover; widowed; living in a small city in Lower Austria 
+ Product selected: Credit Card Platinum. Bonuses selected: Comprehensive insurance protection including travel, theft and purchase protection; Limit 7000€ per month. 
+Experience ultimate peace of mind with our Platinum Credit Card. Enjoy comprehensive insurance protection for travel, theft, and purchases, plus a monthly limit of 7000€. Apply now.
+
+12425 ||| 70 years old; senior; Optimizer; 94637109.375€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 1802349.976€ of monthly Giro turnover; High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Bausparfinanzierung. Bonuses selected: Fixed interest rate period as well as free interest rate cap up until 20 years after receiving loan;Max. 240000€ per person or 480000€ per married couple/life partners; 
+Secure your future with our Bausparfinanzierung! Enjoy a fixed interest rate period and free interest rate cap for up to 20 years. Borrow up to 240,000€ per person or 480,000€ per couple!
+
+12507 ||| 44 years old; working adult; Filial customer; 158188109.375€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 2497629.883€ of monthly Giro turnover; High Giro Turnover; registered relationship; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; 1000€ - 75000€ credit with fixed interest rate throughout the entire payment duration 
+Get the credit you need with a fixed interest rate! Our Fair Credit options are flexible and offer 1000€ - 75000€. Apply now and achieve your financial goals.
+
+12578 ||| 74 years old; senior; No giro account; 17191509.766€ of assets; High Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy overlook over finances; Contactless payment. 
+Simplify your finances with our debit card! Easy to use and secure, with contactless payment. Get yours now and enjoy smooth transactions!
+
+14296 ||| 32 years old; working adult; No giro account; 5240.0€ of assets; Low Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; Payment duration 12 - 84 months. 
+Need financial flexibility? Our fair credit offers payment durations of 12 - 84 months. Get the funds you need without the stress. Apply now!
+
+14937 ||| 58 years old; older adult; Skeptic; 67416390.625€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 1832755.005€ of monthly Giro turnover; High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Sofort Credit. Bonuses selected: Flexible; Easy management through ELBA app; 
+Get the credit you need, when you need it. Our Sofort Credit is flexible and easy to manage through our ELBA app. Apply now and enjoy peace of mind!
+
+15370 ||| 78 years old; senior; Relationship oriented; 3883590.088€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 2094610.107€ of monthly Giro turnover; High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Wohn Credit. Bonuses selected: Tailored conditions for your situation; Long payment duration for less burden 
+Need financial support without burdening yourself? Try Wohn Credit! Our tailored conditions and long payment duration provide the perfect solution for you. Apply now and enjoy peace of mind.
+
+15931 ||| 24 years old; young adult; Fully digital; 1946950.684€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 1141427.49€ of monthly Giro turnover; Medium-High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+Protect yourself and your assets with our insurance policy! Enjoy great benefits and support from Raiffeisen. Go digital and get peace of mind today!
+
+16129 ||| 83 years old; senior; Relationship oriented; 19201742.188€ of assets; High Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; widowed; living in a small city in Lower Austria 
+ Product selected: Bausparfinanzierung. Bonuses selected: Flexible due to tailored repayment plan with payment duration up until 35 years; Max. 240000€ per person or 480000€ per married couple/life partners 
+Secure your future with our flexible Bausparfinanzierung. Tailored repayment plan up to 35 years. Max. 240000€ per person or 480000€ per married couple/life partners. Apply now!
+
+16160 ||| 72 years old; senior; No giro account; 34997289.063€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Sofort Credit. Bonuses selected: Flexible; up to 4000€; Easy management through ELBA app 
+Get the money you need, when you need it with Sofort Credit! Up to 4000€, flexible and easy to manage with the ELBA app. Apply now and get your funds fast!
+
+16512 ||| 72 years old; senior; No giro account; 68161093.75€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Credit Card Gold. Bonuses selected: Includes travel insurance; Payment within 3 days after invoice 
+Experience the world with ease and peace of mind! Our Credit Card Gold comes with travel insurance and a payment window of 3 days after invoice. Apply now and enjoy worry-free travels!
+
+18045 ||| 75 years old; senior; Filial customer; 12457456.055€ of assets; High Income; 0.0€ of financing; Not involved in financing; 1400000.0€ of monthly Giro turnover; Medium-High Giro Turnover; single; living in a big city in Lower Austria 
+ Product selected: Bausparfinanzierung. Bonuses selected: Flexible due to tailored repayment plan with payment duration up until 35 years; Fixed interest rate period as well as free interest rate cap up until 20 years after receiving loan. 
+Secure your future with our flexible Bausparfinanzierung! Tailored repayment plans with payment duration up to 35 years and fixed interest rate period. Take advantage of our free interest rate cap up to 20 years after receiving loan.
+
+18812 ||| 21 years old; young adult; Fully digital; 521929.993€ of assets; Low Income; 2587557.861€ of financing; Involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+Get peace of mind with our insurance! Enjoy great benefits and support from Raiffeisen. Protect yourself and your assets today.
+
+19480 ||| 19 years old; young adult; Online customer; 20825109.375€ of assets; High Income; 0.0€ of financing; Not involved in financing; 673832.52€ of monthly Giro turnover; Medium-High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Securities. Bonuses selected: great benefits; support from Raiffeisen 
+Invest in your future with our top-performing securities! Enjoy great benefits and receive support from Raiffeisen. Don't wait any longer, start investing today!
+
+20079 ||| 82 years old; senior; Filial customer; 52541320.313€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 925270.02€ of monthly Giro turnover; Medium-High Giro Turnover; widowed; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; Credit insurance possible 
+Need some flexibility with your finances? Our fair credit options can help! With the possibility of credit insurance, you can be sure you're covered. Apply now!
+
+20133 ||| 46 years old; working adult; No giro account; 77209609.375€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; 1000€ - 75000€ credit with fixed interest rate throughout the entire payment duration 
+Get the credit you deserve with our flexible and fair credit options. Enjoy a fixed interest rate and pay off 1000€ - 75000€ with ease. Apply now!
+
+
+------------------------------------------------------------------------------------------------------------
+
+20230 ||| 27 years old; working adult; Optimizer; 99256007.813€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 2236850.098€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; Early repayment possible 
+Get the credit you deserve with our flexible options! Early repayment is possible. Apply now and experience the freedom of Fair Credit!
+
+20387 ||| 29 years old; working adult; Relationship oriented; 539795.959€ of assets; Low Income; 13988410.156€ of financing; Involved in financing; 1445560.059€ of monthly Giro turnover; Medium-High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Bausparfinanzierung. Bonuses selected: Fixed interest rate period as well as free interest rate cap up until 20 years after receiving loan; Max. 240000€ per person or 480000€ per married couple/life partners; 
+Secure your future with our Bausparfinanzierung! Enjoy fixed interest rate and free interest rate cap up to 20 years. Get up to 240000€ per person or 480000€ per couple. Apply now!
+
+20566 ||| 61 years old; senior; Optimizer; 167406375.0€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 3722919.922€ of monthly Giro turnover; Very High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Credit Card Gold. Bonuses selected: Includes travel insurance; Limit 2800€ per month. 
+Get the Credit Card Gold with travel insurance, and enjoy the freedom to spend up to 2800€ per month worry-free. Apply now and start exploring the world!
+
+20618 ||| 63 years old; senior; No giro account; 9460.0€ of assets; Low Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; no marital status; living in a small city in Lower Austria 
+ Product selected: Wohn Credit. Bonuses selected: Tailored conditions for your situation; Long payment duration for less burden 
+Looking for a loan with flexible payment options? Wohn Credit offers tailored solutions for your situation. With a long payment duration, you can enjoy less burden. Apply now!
+
+20671 ||| 26 years old; working adult; Online customer; 126528101.563€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 2551260.01€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Securities. Bonuses selected: great benefits; support from Raiffeisen 
+Invest with confidence! Our securities offer great benefits and support from Raiffeisen. Start your journey towards financial growth today!
+
+22143 ||| 31 years old; working adult; Fully digital; 4014356.934€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 2488667.48€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Mein Bonus Konto Kompakt. Bonuses selected: Online and self-service transactions at all Raiffeisen branches; 1 debit card. 
+Get the convenience of online and self-service transactions at all Raiffeisen branches with Mein Bonus Konto Kompakt. Plus, enjoy easy access with 1 debit card. Open your account today!
+
+22168 ||| 32 years old; working adult; Online customer; 2436380.371€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 2112409.912€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy and safe online transactions; Digitalize debit card and pay with your phone 
+Experience hassle-free online transactions with our digitalized debit card! Pay securely with your phone and simplify your life. Get yours now!
+
+22459 ||| 63 years old; senior; No giro account; 0.0€ of assets; No assets; 75548062.5€ of financing; Involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Mein Bonus Konto Direkt. Bonuses selected: Individual billing for all transactions; 3.90€ per month; 
+Get individual billing for all your transactions with Mein Bonus Konto Direkt, for only 3.90€ per month. Sign up now and simplify your finances!
+
+22520 ||| 63 years old; senior; Relationship oriented; 52339015.625€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 1043989.99€ of monthly Giro turnover; Medium-High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Auto Leasing. Bonuses selected: Flexible contracts; Easy termination as well as change and extension of contract. 
+Looking for a hassle-free auto leasing experience? Our flexible contracts allow for easy termination, change, and extension. Drive away in your dream car today!
+
+23275 ||| 19 years old; young adult; No giro account; 273859.985€ of assets; Low Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy and safe online transactions; Digitalize debit card and pay with your phone. 
+Say goodbye to cash! Our debit card allows you to make easy and safe online transactions. Digitalize your card and pay with your phone. Get yours now!
+
+23795 ||| 43 years old; working adult; No giro account; 24365000.0€ of assets; High Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Sofort Credit. Bonuses selected: Flexible; up to 4000€; Easy management through ELBA app 
+Need extra cash? Get up to 4000€ with our Sofort Credit! The easy-to-use ELBA app makes managing your loan a breeze. Apply now and enjoy the flexibility you deserve.
+
+23990 ||| 33 years old; working adult; Optimizer; 10867009.766€ of assets; High Income; 278230531.25€ of financing; Involved in financing; 2290699.951€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Bausparfinanzierung. Bonuses selected: Fixed interest rate period as well as free interest rate cap up until 20 years after receiving loan;Flexible due to tailored repayment plan with payment duration up until 35 years. 
+Secure your future with our Bausparfinanzierung. Fixed interest rate and flexible repayment plan up to 35 years. Invest in your dream home today.
+
+23994 ||| 53 years old; older adult; Relationship oriented; 7626021.484€ of assets; High Income; 0.0€ of financing; Not involved in financing; 2555129.883€ of monthly Giro turnover; High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Credit Card Gold. Bonuses selected: Includes travel insurance; Contactless payment 
+Experience convenience and luxury with our Credit Card Gold. Enjoy contactless payment and get travel insurance coverage with every swipe. Apply now and elevate your lifestyle!
+
+24141 ||| 71 years old; senior; Optimizer; 23937972.656€ of assets; High Income; 0.0€ of financing; Not involved in financing; 4441055.176€ of monthly Giro turnover; Very High Giro Turnover; married; living in a big city in Lower Austria 
+ Product selected: Securities. Bonuses selected: great benefits; support from Raiffeisen 
+Invest in your future with our securities! Enjoy great benefits and get support from Raiffeisen. Start securing your financial future today!
+
+24376 ||| 85 years old; senior; Filial customer; 16109784.18€ of assets; High Income; 0.0€ of financing; Not involved in financing; 2439469.971€ of monthly Giro turnover; High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Credit Card Platinum. Bonuses selected: Comprehensive insurance protection including travel, theft and purchase protection; Limit 7000€ per month. 
+Introducing our Platinum Credit Card! Enjoy peace of mind with comprehensive insurance protection for your purchases, travel, and theft. With a limit of up to €7000 per month, it's the perfect card for your lifestyle. Apply now!
+
+24433 ||| 87 years old; senior; Optimizer; 18406687.5€ of assets; High Income; 0.0€ of financing; Not involved in financing; 1607964.966€ of monthly Giro turnover; High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Sofort Credit. Bonuses selected: Flexible; Easy management through ELBA app; 
+Need flexibility and easy management for your finances? Try our Sofort Credit with ELBA app! The perfect solution for your needs. Apply now!
+
+24468 ||| 29 years old; working adult; No giro account; 49459.999€ of assets; Low Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Sofort Credit. Bonuses selected: Flexible; up to 4000€; Easy management through ELBA app 
+Need money fast? Get up to 4000€ with Sofort Credit! Flexible and easy to manage through ELBA app. Apply now and get the funds you need in no time!
+
+24641 ||| 32 years old; working adult; Relationship oriented; 903150.024€ of assets; Low Income; 3346005.127€ of financing; Involved in financing; 1996285.034€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+Get the insurance policy that truly supports you! Enjoy great benefits and reliable support from Raiffeisen. Secure your future with us today.
+
+25046 ||| 24 years old; young adult; Fully digital; 2929852.539€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 2607000.0€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Digitalize debit card and pay with your phone; Easy and safe online transactions. 
+Get ahead with our digital debit card! Safely and easily pay online with your phone. Upgrade your banking experience today!
+
+25129 ||| 65 years old; senior; Optimizer; 73068882.813€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy overlook over finances; 2 factor authentication 
+Simplify your finances with our Debit Card! Enjoy easy monitoring of your expenses and added security with 2 factor authentication. Get yours now!
+
+25450 ||| 31 years old; working adult; Fully digital; 3487965.088€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 1516829.956€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy and safe online transactions; Digitalize debit card and pay with your phone. 
+Experience the convenience of digital payments with our Debit Card. Say goodbye to cash and hello to easy, safe online transactions. Digitalize your card and pay with your phone. Try it now!
+
+25518 ||| 37 years old; working adult; Fully digital; 23550728.516€ of assets; High Income; 175389437.5€ of financing; Involved in financing; 2431022.461€ of monthly Giro turnover; High Giro Turnover; registered relationship; living in a small city in Lower Austria 
+ Product selected: Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+Get the insurance coverage you deserve! Enjoy great benefits and the support of Raiffeisen. Protect your future today.
+
+25725 ||| 83 years old; senior; Optimizer; 956732375.0€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 8594117.188€ of monthly Giro turnover; Very High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; Credit calculator for further information developed by Teambank AG; 
+Get the credit you deserve with our fair and flexible options! Use our credit calculator for more info. Teambank AG has got you covered!
+
+26466 ||| 20 years old; young adult; Relationship oriented; 105518.623€ of assets; Low Income; 0.0€ of financing; Not involved in financing; 902429.993€ of monthly Giro turnover; Medium-High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+Secure your future with Raiffeisen insurance! Enjoy great benefits and support from our team. Don't wait, get the protection you need today!
+
+26688 ||| 71 years old; senior; Skeptic; 223563843.75€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 3106419.922€ of monthly Giro turnover; Very High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Auto Leasing. Bonuses selected: Calculate leasing rate online; Easy termination as well as change and extension of contract; 
+Looking for a hassle-free auto leasing experience? Try our online leasing calculator and enjoy easy termination, change, and extension of your contract. Drive the car of your dreams without any worries.
+
+27021 ||| unknown age; unknown age group; No giro account; 23016253.906€ of assets; High Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; no marital status; living in a small city in Lower Austria 
+ Product selected: Sofort Credit. Bonuses selected: Flexible; up to 4000€ 
+Get the credit you need, when you need it. Our Sofort Credit is flexible and allows you to borrow up to 4000€. Apply now and take control of your finances.
+
+27496 ||| 73 years old; senior; Optimizer; 117579906.25€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 1847099.976€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Auto Leasing. Bonuses selected: Flexible contracts; Easy termination as well as change and extension of contract; 
+Drive your dream car with ease! Our Auto Leasing offers flexible contracts and easy termination, change, and extension options. Get it now and experience the comfort of driving the car you've always wanted.
+
+27939 ||| 74 years old; senior; No giro account; 51480.0€ of assets; Low Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Auto Leasing. Bonuses selected: Flexible contracts; Easy termination as well as change and extension of contract. 
+Drive your dream car with ease! Our Auto Leasing offers flexible contracts, easy termination, and the option to change or extend your agreement. Contact us today to learn more.
+
+28343 ||| 34 years old; working adult; Online customer; 8476009.766€ of assets; High Income; 51719042.969€ of financing; Involved in financing; 1372910.034€ of monthly Giro turnover; Medium-High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+Get the protection you need with our insurance! Enjoy great benefits and support from Raiffeisen. Don't wait until it's too late, sign up now!
+
+28466 ||| 64 years old; senior; Filial customer; 16355985.352€ of assets; High Income; 0.0€ of financing; Not involved in financing; 1657484.985€ of monthly Giro turnover; High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Bausparfinanzierung. Bonuses selected: Fixed interest rate period as well as free interest rate cap up until 20 years after receiving loan; Max. 240000€ per person or 480000€ per married couple/life partners. 
+Secure your future with our Bausparfinanzierung! Fixed interest rate period and free interest rate cap up to 20 years after loan. Apply now for up to €240,000/person or €480,000/married couple.
+
+28981 ||| 38 years old; working adult; Fully digital; 27164361.328€ of assets; High Income; 0.0€ of financing; Not involved in financing; 2219570.068€ of monthly Giro turnover; High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Sofort Credit. Bonuses selected: Flexible; up to 4000€; Easy management through ELBA app 
+Need extra cash? Get up to 4000€ with Sofort Credit! Our flexible loan is easy to manage with the ELBA app. Apply now and get the financial support you need!
+
+29248 ||| 43 years old; working adult; No giro account; 1857770.02€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; Credit calculator for further information developed by Teambank AG. 
+Looking for flexible credit? Look no further! Our Fair Credit offers a solution for your financial needs. Calculate your options with our credit calculator developed by Teambank AG.
+
+29333 ||| 39 years old; working adult; No giro account; 76877539.063€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Credit Card Gold. Bonuses selected: Includes travel insurance; Contactless payment 
+Experience luxury and convenience with our Credit Card Gold! Enjoy contactless payments and travel insurance, all in one card. Apply now and elevate your lifestyle.
+
+29468 ||| 31 years old; working adult; No giro account; 1862500.0€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Credit Card Gold. Bonuses selected: Includes travel insurance; Visa or Mastercard 
+Get the Credit Card Gold today and enjoy the perks of travel insurance. Accepted worldwide, choose between Visa or Mastercard. Apply now and experience the convenience!
+
+30503 ||| 82 years old; senior; Filial customer; 7673411.133€ of assets; High Income; 0.0€ of financing; Not involved in financing; 2597290.039€ of monthly Giro turnover; High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Sofort Credit. Bonuses selected: Easy management through ELBA app; Flexible 
+Need cash fast? Get Sofort Credit! Manage it easily with our ELBA app. Flexible and tailored to your needs. Apply now and enjoy financial freedom.
+
+30570 ||| 58 years old; older adult; No giro account; 0.0€ of assets; No assets; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; registered relationship; living in Vienna 
+ Product selected: Credit Card Classic. Bonuses selected: Limit 1400€ per month; Contactless payment 
+Experience easy and secure payments with our Credit Card Classic. Get a monthly limit of 1400€ and enjoy the convenience of contactless payment. Apply now!
+
+30607 ||| 28 years old; working adult; Fully digital; 2316393.799€ of assets; Middle Income; 378078843.75€ of financing; Involved in financing; 8643349.609€ of monthly Giro turnover; Very High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Mein Bonus Konto Direkt. Bonuses selected: Individual billing for all transactions; 3.90€ per month; 
+Get full control of your finances with Mein Bonus Konto Direkt. Enjoy individual billing for all transactions for only 3.90€ per month. Sign up now and take charge of your money!
+
+30681 ||| 25 years old; young adult; Fully digital; 25681388.672€ of assets; High Income; 0.0€ of financing; Not involved in financing; 1851859.985€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Digitalize debit card and pay with your phone; Easy and safe online transactions. 
+Get the convenience and security you need with our digital debit card! Pay with your phone and enjoy easy and safe online transactions. Try it now!
+
+30685 ||| 24 years old; young adult; Fully digital; 4462862.305€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 1987849.976€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Digitalize debit card and pay with your phone; Contactless payment 
+Go cashless and pay with ease! Our debit card lets you pay with just a tap, and now you can digitalize your card and pay with your phone. Upgrade your payment experience today!
+
+30693 ||| 35 years old; working adult; Fully digital; 29975517.578€ of assets; High Income; 0.0€ of financing; Not involved in financing; 5247187.5€ of monthly Giro turnover; Very High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+Get the best insurance coverage with Raiffeisen! Enjoy great benefits and excellent support. Protect yourself and your family - go digital and get insured now.
+
+30827 ||| 56 years old; older adult; Online customer; 11493236.328€ of assets; High Income; 0.0€ of financing; Not involved in financing; 3771000.0€ of monthly Giro turnover; Very High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; 1000€ - 75000€ credit with fixed interest rate throughout the entire payment duration. 
+Get the credit you need with our flexible and fair credit options. Enjoy fixed interest rates for the duration of your payments. Apply now and get approved fast!
+
+31378 ||| 62 years old; senior; Optimizer; 116458414.063€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 1823310.059€ of monthly Giro turnover; High Giro Turnover; widowed; living in a small city in Lower Austria 
+ Product selected: Credit Card Platinum. Bonuses selected: Comprehensive insurance protection including travel, theft and purchase protection; Limit 7000€ per month. 
+Get more out of life with our Platinum Credit Card! Enjoy comprehensive insurance protection and a monthly limit of 7000€. Apply now and experience the ultimate in financial freedom.
+
+31542 ||| 49 years old; working adult; No giro account; 6687120.117€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Wohn Credit. Bonuses selected: Tailored conditions for your situation; Long payment duration for less burden 
+Looking for a hassle-free and tailored credit solution? Wohn Credit offers long payment duration and flexible conditions to meet your needs. Apply now!
+
+31616 ||| 17 years old; child; No giro account; 17645259.766€ of assets; High Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Digitalize debit card and pay with your phone; Contactless payment 
+Say goodbye to the hassle of carrying cash and cards. Our digitalized debit card allows you to pay with your phone, anytime and anywhere. Try contactless payment today!
+
+31663 ||| 81 years old; senior; Optimizer; 32136841.797€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 2022689.941€ of monthly Giro turnover; High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy overlook over finances; 2 factor authentication. 
+Simplify your financial management with our Debit Card! Get easy access to your finances with 2 factor authentication. Try it now for hassle-free banking.
+
+31747 ||| 56 years old; older adult; No giro account; 200000.0€ of assets; Low Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Mein Bonus Konto Kompakt. Bonuses selected: Online and self-service transactions at all Raiffeisen branches; 1 debit card 
+Get the ultimate convenience with Raiffeisen's Mein Bonus Konto Kompakt! Enjoy online and self-service transactions at all branches, plus a debit card. Sign up now!
+
+32015 ||| 39 years old; working adult; Fully digital; 25750287.109€ of assets; High Income; 118152960.938€ of financing; Involved in financing; 3354050.049€ of monthly Giro turnover; Very High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+Get exceptional insurance benefits and support from Raiffeisen. Protect your assets and secure your future with our fully digital insurance solution. Try it now!
+
+32214 ||| 51 years old; older adult; No giro account; 47580.002€ of assets; Low Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Wohn Credit. Bonuses selected: Tailored conditions for your situation; Long payment duration for less burden. 
+Get the credit you need with Wohn Credit! Our tailored conditions and long payment duration make it easy to manage your finances. Apply now and enjoy financial freedom!
+
+32309 ||| 43 years old; working adult; No giro account; 22400.0€ of assets; Low Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Bausparfinanzierung. Bonuses selected: Flexible due to tailored repayment plan with payment duration up until 35 years; Fixed interest rate period as well as free interest rate cap up until 20 years after receiving loan; 
+Get the financing you need with our flexible repayment plan! Enjoy a fixed interest rate period and free interest rate cap up to 20 years. Contact us today!
+
+32393 ||| 36 years old; working adult; Skeptic; 1322207.031€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 78000.0€ of monthly Giro turnover; Medium Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Bausparfinanzierung. Bonuses selected: Flexible due to tailored repayment plan with payment duration up until 35 years; Fixed interest rate period as well as free interest rate cap up until 20 years after receiving loan. 
+Get the flexibility you need with our Bausparfinanzierung! Tailored repayment plans up to 35 years and fixed interest rates with free interest rate cap up to 20 years after loan. Apply now!
+
+
+------------------------------------------------------------------------------------------------------------
+
+33383 ||| 80 years old; senior; Filial customer; 5112565.918€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 1981459.961€ of monthly Giro turnover; High Giro Turnover; widowed; living in a small city in Lower Austria 
+ Product selected: Basis Konto. Bonuses selected: great benefits; support from Raiffeisen 
+BASIS KONTO FOR SENIORS With great benefits and support from Raiffeisen, our Basis Konto is perfect for seniors. Open your account today and enjoy hassle-free banking.
+
+33416 ||| 80 years old; senior; Filial customer; 70860539.063€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 2309330.078€ of monthly Giro turnover; High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Auto Leasing. Bonuses selected: Flexible contracts; Easy termination as well as change and extension of contract; 
+DRIVE FLEXIBLY
+
+Get the Auto Leasing that suits your needs. With flexible contracts and easy termination, change or extension of contract. Drive your dream car today!
+
+33510 ||| 87 years old; senior; No giro account; 79733765.625€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; Credit insurance possible 
+PROTECT YOUR CREDIT. Fair credit options with flexibility. Credit insurance available. Get approved today!
+
+33774 ||| 57 years old; older adult; No giro account; 25458076.172€ of assets; High Income; 0.0€ of financing; Not involved in financing; 2098860.107€ of monthly Giro turnover; High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Auto Leasing. Bonuses selected: Flexible contracts; Easy termination as well as change and extension of contract. 
+DRIVE YOUR DREAM CAR Our auto leasing offers flexible contracts and easy termination, change, and extension. Get behind the wheel and enjoy the ride!
+
+34092 ||| 74 years old; senior; No giro account; 0.0€ of assets; No assets; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Auto Leasing. Bonuses selected: Flexible contracts; Easy termination as well as change and extension of contract. 
+FLEXIBLE AUTO LEASING Enjoy the freedom of our flexible contracts. Change, extend or terminate your agreement with ease. Drive worry-free with us!
+
+34325 ||| 89 years old; senior; No giro account; 0.0€ of assets; No assets; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; widowed; living in a small city in Lower Austria 
+ Product selected: Credit Card Classic. Bonuses selected: Limit 1400€ per month; Contactless payment. 
+CONVENIENT PAYMENT Our Credit Card Classic with contactless payment makes shopping easy. Enjoy a limit of 1400€ per month. Get yours now!
+
+34534 ||| 80 years old; senior; Filial customer; 39059816.406€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 1704750.0€ of monthly Giro turnover; High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Bausparfinanzierung. Bonuses selected: Flexible due to tailored repayment plan with payment duration up until 35 years; Fixed interest rate period as well as free interest rate cap up until 20 years after receiving loan 
+OWN YOUR HOME. Our Bausparfinanzierung offers tailored repayment plans up to 35 years with a fixed interest rate period and free interest rate cap up to 20 years. Apply now!
+
+34546 ||| 41 years old; working adult; Relationship oriented; 50000.0€ of assets; Low Income; 57467792.969€ of financing; Involved in financing; 3921830.078€ of monthly Giro turnover; Very High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; 14-days free return policy 
+FAIR CREDIT FOR YOU! Get flexible payment options with our Fair Credit. Try it risk-free with our 14-day free return policy. Apply now and get approved in minutes.
+
+34658 ||| 91 years old; senior; Skeptic; 2415556.885€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 4422890.137€ of monthly Giro turnover; Very High Giro Turnover; widowed; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy overlook over finances; Contactless payment. 
+MANAGE YOUR MONEY WITH EASE. Our debit card offers easy financial oversight and contactless payment. Simplify your life today!
+
+35051 ||| 83 years old; senior; Filial customer; 39614929.688€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 1060060.059€ of monthly Giro turnover; Medium-High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Sofort Credit. Bonuses selected: Easy management through ELBA app; Flexible; 
+GET SOFORT CREDIT Manage your finances easily with our ELBA app. Our flexible credit options are perfect for your needs. Apply now and enjoy financial freedom.
+
+35111 ||| 22 years old; young adult; No giro account; 13320.0€ of assets; Low Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Auto Leasing. Bonuses selected: Calculate leasing rate online; Flexible contracts; 
+CALCULATE YOUR RATE ONLINE. Get a flexible leasing contract for your dream car. Easy and convenient. Try now and enjoy the ride!
+
+35432 ||| 75 years old; senior; Filial customer; 5218661.133€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 1611849.976€ of monthly Giro turnover; High Giro Turnover; divorced; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy overlook over finances; Contactless payment. 
+EASILY MANAGE YOUR FINANCES. Our debit card offers easy finance tracking and secure contactless payments. Sign up now and simplify your life!
+
+35499 ||| 58 years old; older adult; Relationship oriented; 163729.996€ of assets; Low Income; 22691005.859€ of financing; Involved in financing; 3744300.049€ of monthly Giro turnover; Very High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy overlook over finances; Pay up to 50€ without pin code. 
+SIMPLIFY YOUR FINANCES. Our debit card lets you pay up to 50€ without a pin and gives you easy oversight over your finances. Get yours now!
+
+35872 ||| 50 years old; working adult; No giro account; 4510890.137€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Bausparfinanzierung. Bonuses selected: Finance your house building projects; Flexible due to tailored repayment plan with payment duration up until 35 years. 
+FINANCE YOUR DREAM HOME with our Bausparfinanzierung! Tailored repayment plans and up to 35 years of payment duration. Start building your future today.
+
+36530 ||| 47 years old; working adult; Optimizer; 48589023.438€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 14869297.852€ of monthly Giro turnover; Very High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Wohn Credit. Bonuses selected: Tailored conditions for your situation; Long payment duration for less burden 
+GET YOUR WOHN CREDIT! We offer tailored conditions & long payment duration for less burden. Secure your dream home now!
+
+36719 ||| 62 years old; senior; Online customer; 80026953.125€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 1532329.956€ of monthly Giro turnover; High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy and safe online transactions; Easy overlook over finances. 
+EASY & SAFE ONLINE PAYMENTS. Our debit card allows you to have full control over your finances. Get it now and enjoy hassle-free online transactions!
+
+36923 ||| 13 years old; child; Skeptic; 5129301.27€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 10000.0€ of monthly Giro turnover; Low Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Sumsi Konto. Bonuses selected: JBL Headphones as welcome gift; Various discounts for the Raiffeisen Online-Shop 
+WELCOME TO SUMSI KONTO! Get JBL Headphones and various discounts for Raiffeisen Online-Shop. Easy banking for young skeptics. Join now and manage your money hassle-free.
+
+37152 ||| 20 years old; young adult; No giro account; 10010.0€ of assets; Low Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Auto Leasing. Bonuses selected: Flexible contracts; Easy termination as well as change and extension of contract. 
+FLEXIBLE AUTO LEASING Our contracts are designed to fit your needs. Easy termination, change and extension options. Drive the car of your dreams today!
+
+37460 ||| 66 years old; senior; No giro account; 11000040.039€ of assets; High Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Sofort Credit. Bonuses selected: Flexible; up to 4000€; Easy management through ELBA app 
+GET FLEXIBLE CREDIT NOW! Sofort Credit offers up to 4000€ with easy management through ELBA app. No giro account needed. Apply now and enjoy financial freedom.
+
+37608 ||| 15 years old; child; Relationship oriented; 5663453.613€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 20000.0€ of monthly Giro turnover; Low Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy and safe online transactions; Digitalize debit card and pay with your phone. 
+DIGITALIZE YOUR PAYMENTS! Make easy and safe online transactions with our debit card. Pay with your phone and enjoy the convenience of our secure and reliable service.
+
+37734 ||| 26 years old; working adult; Fully digital; 4605965.82€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 1630530.029€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+GET INSURED with Raiffeisen. Great benefits and 24/7 support. Protect yourself and your future. Contact us now!
+
+37807 ||| 18 years old; young adult; Relationship oriented; 19625777.344€ of assets; High Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Sofort Credit. Bonuses selected: Flexible; up to 4000€ 
+GET MONEY NOW! Sofort Credit offers flexible options up to 4000€. Apply today and get the money you need quickly and easily.
+
+38141 ||| unknown age; unknown age group; No giro account; 57998378.906€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; no marital status; living in a small city in Lower Austria 
+ Product selected: Wohn Credit. Bonuses selected: Tailored conditions for your situation; Long payment duration for less burden 
+GET YOUR DREAM HOME with Wohn Credit. Our tailored conditions and long payment duration make it easy for you to own a home. Apply now!
+
+38151 ||| 57 years old; older adult; Optimizer; 1837190.063€ of assets; Middle Income; 419636.993€ of financing; Involved in financing; 1732780.029€ of monthly Giro turnover; High Giro Turnover; married; living in a big city in Lower Austria 
+ Product selected: Life Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+PROTECT YOUR FUTURE with Raiffeisen's life insurance. Great benefits and support from a trusted partner. Don't wait, secure your loved ones today!
+
+38162 ||| 65 years old; senior; Filial customer; 7062962.891€ of assets; Middle Income; 4675259.766€ of financing; Involved in financing; 3676810.059€ of monthly Giro turnover; Very High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Mein Bonus Konto Direkt. Bonuses selected: Individual billing for all transactions;3.90€ per month 
+SAVE MONEY. Mein Bonus Konto Direkt provides individual billing for every transaction at only 3.90€ per month. Open your account today and start saving!
+
+38257 ||| 71 years old; senior; Filial customer; 16085403.32€ of assets; High Income; 0.0€ of financing; Not involved in financing; 3411685.059€ of monthly Giro turnover; Very High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Basis Konto. Bonuses selected: Basic functions to overcome difficult times; Free debit card and Mein ELBA Internetbanking included. 
+GET THE BASICS COVERED. Our Basis Konto offers essential functions for tough times, plus a free debit card and Mein ELBA Internetbanking. Sign up now for worry-free banking.
+
+38751 ||| 71 years old; senior; Fully digital; 40587128.906€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 848880.005€ of monthly Giro turnover; Medium-High Giro Turnover; divorced; living in a small city in Lower Austria 
+ Product selected: Wohn Credit. Bonuses selected: Tailored conditions for your situation; Long payment duration for less burden 
+TAILOR-MADE CREDIT SOLUTIONS. Get the financing you need with long payment duration and tailored conditions. Apply now for Wohn Credit.
+
+39488 ||| 41 years old; working adult; Online customer; 14467308.594€ of assets; High Income; 0.0€ of financing; Not involved in financing; 1851045.044€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; Credit calculator for further information developed by Teambank AG 
+CALCULATE YOUR CREDIT Our Fair Credit is flexible and tailored to your needs. Visit our website for more information and use our credit calculator now!
+
+39505 ||| 84 years old; senior; Filial customer; 76211304.688€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 1677560.059€ of monthly Giro turnover; High Giro Turnover; widowed; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy overlook over finances; Contactless payment. 
+SIMPLIFY YOUR LIFE WITH OUR DEBIT CARD! Manage your finances with ease and convenience, thanks to our contactless payment feature. Sign up now!
+
+40133 ||| 57 years old; older adult; No giro account; 84110.001€ of assets; Low Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Wohn Credit. Bonuses selected: Tailored conditions for your situation; Long payment duration for less burden 
+GET THE CREDIT YOU NEED. Wohn Credit offers tailored conditions and long payment duration to lighten your burden. Apply now and ease your financial worries.
+
+40185 ||| 25 years old; young adult; No giro account; 562440.002€ of assets; Low Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+SECURE YOUR FUTURE Raiffeisen Insurance offers great benefits and support. Don't let unexpected events derail your plans. Get insured today and have peace of mind.
+
+40472 ||| 59 years old; older adult; No giro account; 2758339.6€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 2368610.107€ of monthly Giro turnover; High Giro Turnover; registered relationship; living in Vienna 
+ Product selected: Mein Bonus Konto Direkt. Bonuses selected: Individual billing for all transactions; 3.90€ per month 
+OPEN YOUR ACCOUNT TODAY! Mein Bonus Konto Direkt offers individual billing for all transactions at just 3.90€ per month. Sign up now and enjoy hassle-free banking.
+
+40618 ||| 22 years old; young adult; No giro account; 11480.0€ of assets; Low Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; no marital status; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible;Reduce or skip installments. 
+GET FLEXIBLE CREDIT Reduce or skip installments with Fair Credit. Easy approval, no hidden fees. Apply now and get the funds you need!
+
+40690 ||| 31 years old; working adult; Fully digital; 2246240.234€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 2145570.068€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; 1000€ - 75000€ credit with fixed interest rate throughout the entire payment duration 
+GET FINANCIAL FLEXIBILITY! Fair Credit offers credit from 1000€ to 75000€ with fixed interest rate throughout the entire payment duration. Apply now and get approved instantly!
+
+41083 ||| 44 years old; working adult; Filial customer; 30165468.75€ of assets; High Income; 0.0€ of financing; Not involved in financing; 1581584.961€ of monthly Giro turnover; High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Wohn Credit. Bonuses selected: Tailored conditions for your situation; Long payment duration for less burden 
+GET THE CREDIT YOU NEED Tailored conditions and long payment duration for less burden. Apply for Wohn Credit now and get the financing you need.
+
+41374 ||| 83 years old; senior; Filial customer; 61138003.906€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 1308680.054€ of monthly Giro turnover; Medium-High Giro Turnover; divorced; living in a small city in Lower Austria 
+ Product selected: Bausparfinanzierung. Bonuses selected: Fixed interest rate period as well as free interest rate cap up until 20 years after receiving loan; Latest first payment after 12 months. 
+Invest in your future with Bausparfinanzierung. Fixed interest rate and free interest rate cap up to 20 years after loan. Latest first payment after 12 months. Apply now!
+
+42347 ||| 83 years old; senior; Filial customer; 22281501.953€ of assets; High Income; 0.0€ of financing; Not involved in financing; 3310590.088€ of monthly Giro turnover; Very High Giro Turnover; widowed; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; Credit insurance possible. 
+PROTECT YOUR CREDIT. Our Fair Credit has flexible options and credit insurance available. Apply now for peace of mind.
+
+42480 ||| 63 years old; senior; Skeptic; 37164011.719€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 2887120.117€ of monthly Giro turnover; High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy overlook over finances; Contactless payment. 
+MANAGE YOUR FINANCES EASILY with our debit card. Enjoy contactless payment and stay on top of your spending. Try it now and simplify your life!
+
+43202 ||| 34 years old; working adult; Relationship oriented; 8044169.434€ of assets; High Income; 108449171.875€ of financing; Involved in financing; 2880000.0€ of monthly Giro turnover; High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy overlook over finances; Digitalize debit card and pay with your phone. 
+DIGITALIZE YOUR PAYMENTS. Our debit card makes it easy to track your finances and pay with your phone. Simplify your life and try it now!
+
+43667 ||| 33 years old; working adult; No giro account; 2570.0€ of assets; Low Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Wohn Credit. Bonuses selected: Tailored conditions for your situation; Long payment duration for less burden 
+GET YOUR WOHN CREDIT Get a tailor-made loan with long payment duration and less burden. No giro account needed. Apply now and get the financing you need.
+
+43766 ||| 75 years old; senior; Filial customer; 131108078.125€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 2889669.922€ of monthly Giro turnover; High Giro Turnover; widowed; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; Early repayment possible 
+FAIR CREDIT FOR YOU. Our flexible terms allow for early repayment. Get the financing you need without the hassle. Apply now and enjoy peace of mind.
+
+43837 ||| 25 years old; young adult; Fully digital; 5256024.414€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 1653844.971€ of monthly Giro turnover; High Giro Turnover; single; living in a big city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy and safe online transactions; Digitalize debit card and pay with your phone. 
+DIGITIZE YOUR DEBIT CARD. Safe and easy online transactions. Pay with your phone. Simplify your life with our digital debit card. Try it now!
+
+44065 ||| 23 years old; young adult; Fully digital; 36082460.938€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 1339750.0€ of monthly Giro turnover; Medium-High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Securities. Bonuses selected: great benefits; support from Raiffeisen 
+INVEST SMARTER WITH RAIFFEISEN Our securities offer great benefits and expert support. Take control of your finances today!
+
+44465 ||| 23 years old; young adult; No giro account; 1001710.022€ of assets; Low Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Credit Card Classic. Bonuses selected: Limit 1400€ per month; Contactless payment; 
+CONTACTLESS PAYMENTS MADE EASY Get our Credit Card Classic with a 1400€ monthly limit. Convenient and secure payments wherever you go. Apply now!
+
+44762 ||| 25 years old; young adult; Fully digital; 53914578.125€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 1952609.985€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Credit Card Platinum. Bonuses selected: Comprehensive insurance protection including travel, theft and purchase protection; Visa or Mastercard 
+UNLEASH YOUR POTENTIAL. Our Platinum Credit Card offers comprehensive insurance protection and Visa/Mastercard benefits. Apply now and enjoy the perks of being financially empowered!
+
+44768 ||| 55 years old; older adult; Optimizer; 44021949.219€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy and safe online transactions; Contactless payment. 
+EASY PAYMENTS MADE SAFER. Our debit card offers easy online and contactless payments. Get yours now and enjoy a hassle-free transaction experience.
+
+45154 ||| 79 years old; senior; Optimizer; 16806248.047€ of assets; High Income; 0.0€ of financing; Not involved in financing; 1784209.961€ of monthly Giro turnover; High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Credit Card Platinum. Bonuses selected: Comprehensive insurance protection including travel, theft and purchase protection; Payment within 21 days after invoice; 
+PLATINUM PROTECTION Our Credit Card Platinum offers comprehensive insurance protection for travel, theft, and purchases. Pay within 21 days after invoice. Apply now!
+
+45170 ||| 84 years old; senior; Filial customer; 72130937.5€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 1709810.059€ of monthly Giro turnover; High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Auto Leasing. Bonuses selected: Flexible contracts; Easy termination as well as change and extension of contract; 
+FLEXIBLE LEASING OPTIONS Our auto leasing offers easy termination, change, and extension of contracts. Drive away in your dream car today!
+
+45459 ||| 76 years old; senior; Filial customer; 90960773.438€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 1659369.995€ of monthly Giro turnover; High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy overlook over finances; Flexibility. 
+FLEXIBLE FINANCES Our Debit Card offers easy oversight and flexibility for your finances. Upgrade your banking experience now and enjoy hassle-free transactions.
+
+46046 ||| 41 years old; working adult; No giro account; 2166219.971€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in Vienna 
+ Product selected: Sofort Credit. Bonuses selected: Flexible; Up to 4000€; 
+GET FLEXIBLE CREDIT Get up to 4000€ with Sofort Credit. No giro account needed. Middle-income friendly. Apply now and get the funds you need fast.
+
+
+------------------------------------------------------------------------------------------------------------
+
+2078 ||| 54 years old; older adult; No giro account; 1998939.941€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; reduce or skip installments 
+Need flexibility in your credit? Our fair credit options allow you to reduce or skip installments. With us, you can manage your finances with ease. Apply now and experience the freedom you deserve.
+
+2078 ||| 54 years old; older adult; No giro account; 1998939.941€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Bausparfinanzierung. Bonuses selected: Flexible due to tailored repayment plan with payment duration up until 35 years; Fixed interest rate period as well as free interest rate cap up until 20 years after receiving loan. 
+Secure your future with our flexible Bausparfinanzierung! Tailored repayment plans with up to 35 years payment duration, fixed interest rate period, and free interest rate cap up to 20 years after receiving loan. Invest in your future now!
+
+2211 ||| 20 years old; young adult; Online customer; 12685312.5€ of assets; High Income; 0.0€ of financing; Not involved in financing; 922919.983€ of monthly Giro turnover; Medium-High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Life Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+Secure your future with our Life Insurance! Enjoy great benefits and get the support you need from Raiffeisen. Don't wait until it's too late - protect yourself and your loved ones today.
+
+2078 ||| 54 years old; older adult; No giro account; 1998939.941€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; Credit calculator for further information developed by Teambank AG 
+Get the credit you need with Fair Credit! Our flexible options are tailored to your needs. Use our credit calculator, developed by Teambank AG, for more information. Apply now and take control of your finances.
+
+2211 ||| 20 years old; young adult; Online customer; 12685312.5€ of assets; High Income; 0.0€ of financing; Not involved in financing; 922919.983€ of monthly Giro turnover; Medium-High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Life Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+Secure your future with our life insurance! Our policy offers great benefits and support from Raiffeisen, ensuring your loved ones are taken care of. Don't wait, get peace of mind today!
+
+2620 ||| 20 years old; young adult; No giro account; 1195319.946€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy and safe online transactions; Digitalize debit card and pay with your phone. 
+Looking for a safe and convenient way to make online transactions? Our digital debit card is here for you! With easy and secure payments from your phone, you'll never have to worry about carrying cash or memorizing PINs again. Get yours today!
+
+
+------------------------------------------------------------------------------------------------------------
+
+2078 ||| 54 years old; older adult; No giro account; 1998939.941€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Debit Card. Bonuses selected: Easy overlook over finances; Contactless payment 
+Experience the convenience of managing your money with ease. Our debit card offers easy oversight of your finances and the ability to make contactless payments. Simplify your life today!
+
+2078 ||| 54 years old; older adult; No giro account; 1998939.941€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Fair Credit. Bonuses selected: Flexible; Credit calculator for further information developed by Teambank AG; 
+Looking for a flexible credit solution? Look no further than Teambank AG's Fair Credit! With our credit calculator, you can get all the information you need to make the right decision. Apply now and get the financial support you need.
+
+2211 ||| 20 years old; young adult; Online customer; 12685312.5€ of assets; High Income; 0.0€ of financing; Not involved in financing; 922919.983€ of monthly Giro turnover; Medium-High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Life Insurance. Bonuses selected: great benefits; support from Raiffeisen 
+You never know what life has in store for you, but with our life insurance, you can rest easy knowing you're protected. Enjoy great benefits and support from Raiffeisen. Get peace of mind today!
+
+2620 ||| 20 years old; young adult; No giro account; 1195319.946€ of assets; Middle Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Credit Card Gold. Bonuses selected: Includes travel insurance; Contactless payment 
+Experience the ultimate convenience with our Credit Card Gold! Enjoy contactless payment and get travel insurance included. Apply now to elevate your lifestyle.
+
+2698 ||| 75 years old; senior; Filial customer; 216346109.375€ of assets; Ultra-High Income; 0.0€ of financing; Not involved in financing; 3062689.941€ of monthly Giro turnover; Very High Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Wohn Credit. Bonuses selected: great benefits; support from Raiffeisen 
+Looking for a reliable credit solution? Look no further than Wohn Credit! With great benefits and support from Raiffeisen, you can trust us to help you achieve your financial goals. Apply now and experience the difference Wohn Credit can make!
+
+3162 ||| 25 years old; young adult; Fully digital; 12926066.406€ of assets; High Income; 0.0€ of financing; Not involved in financing; 1700000.0€ of monthly Giro turnover; High Giro Turnover; single; living in a small city in Lower Austria 
+ Product selected: Bausparfinanzierung. Bonuses selected: great benefits; support from Raiffeisen 
+Looking for a reliable way to finance your dream home? Look no further! Our Bausparfinanzierung offers great benefits and the support of Raiffeisen. Apply now and make your dream a reality with ease.
+
+3195 ||| 60 years old; older adult; Optimizer; 110070.0€ of assets; Low Income; 0.0€ of financing; Not involved in financing; 0.0€ of monthly Giro turnover; No Giro Turnover; married; living in a small city in Lower Austria 
+ Product selected: Bausparfinanzierung. Bonuses selected: Flexible due to tailored repayment plan with payment duration up until 35 years; Fixed interest rate period as well as free interest rate cap up until 20 years after receiving loan. 
+Achieve your financial goals with our tailored repayment plans for Bausparfinanzierung. Enjoy a fixed interest rate period and a free interest rate cap for up to 20 years after receiving your loan. Contact us today to learn more!
+
